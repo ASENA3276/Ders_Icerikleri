@@ -1,0 +1,71 @@
+
+/* Açıklama Satırı 
+
+------  class -> .text-red{ }
+------ id -> #id-bilgisi {}
+
+body { background-color: blackP;}
+
+/* css selectors */
+
+.color-blue.fw-normal {
+
+color: blue;
+font-weight: normal;
+
+
+}
+
+
+h1  {
+    color:orange;
+    font-size: 64px;
+}
+
+
+h2   {
+    color: chartreuse;
+    font-size: 44px;
+
+}
+
+
+
+
+p   {
+    color: fuchsia;
+    font-size: 18px;
+    
+    
+
+
+} */
+
+.text-red {
+
+color: red;
+
+}
+
+.fs-10 {
+
+font-size: 10px;
+
+}
+
+.fs-20 {
+
+    font-size: 20px;
+
+}
+
+.fs-30 {
+
+font-size: 30px;
+
+}
+
+#first-article {
+
+font-size: 40px;
+}
